@@ -79,7 +79,7 @@ class _OnlineStatusWidgetState extends State<OnlineStatusWidget> {
         );
 
     Widget setupServerWidget() => const SizedBox.shrink();
-
+ 
     basicWidget() => Row(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
